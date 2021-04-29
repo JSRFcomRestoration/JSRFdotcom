@@ -9,7 +9,7 @@ If you want to contribute then just ask in the JSR Archives server or ask for an
 # How to download code
 
 Method 1: Click the `Code` button and then click `Download Zip`
-Method 2: Install `git` if you ha ven't already. Then in terminal or cmd do this command: `git clone https://github.com/JSRFcomRestoration/JSRFdotcom/main`.
+Method 2: Install `git` if you haven't already. Then in terminal or cmd do this command: `git clone https://github.com/JSRFcomRestoration/JSRFdotcom/main`.
 
 
 # Contributors Note
